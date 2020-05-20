@@ -1,0 +1,2 @@
+# Hear-Together
+Hear Together is an Android smartphone application that turns your phone into a hearing aid. The user interface allows a user to create or join a session in which they may engage in interaction with assisted hearing. The assisted hearing will take the form of a microphone input directly sending sound information into the android device and outputting modified sound as output to a set of earbuds or headphones.
