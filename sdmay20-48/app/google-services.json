@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557041461470",
+    "firebase_url": "https://sdmay20-48.firebaseio.com",
+    "project_id": "sdmay20-48",
+    "storage_bucket": "sdmay20-48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557041461470:android:ddba60336ea3c3f30e7a4f",
+        "android_client_info": {
+          "package_name": "com.example.heartogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557041461470-3if7e7pn7eokahh1hk70472keoj6ivij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heartogether",
+            "certificate_hash": "55d34db4983362f82c566e0bbc06c2bb89d7b760"
+          }
+        },
+        {
+          "client_id": "557041461470-up5edmm95kg4sqj5kmdir6nbna35n6nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-1L6jC_V404ywDiyXI-pLDSlhMsIEIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557041461470-up5edmm95kg4sqj5kmdir6nbna35n6nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
